@@ -1,0 +1,6 @@
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FsdTaskService\FsdTaskService\bin\FsdTaskService.dll.config
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FsdTaskService\FsdTaskService\bin\FsdTaskService.dll
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FsdTaskService\FsdTaskService\bin\FsdTaskService.pdb
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FsdTaskService\FsdTaskService\obj\Debug\FsdTaskService.csprojResolveAssemblyReference.cache
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FsdTaskService\FsdTaskService\obj\Debug\FsdTaskService.dll
+\\rtpfip01\Profile_Redirection\Virtual\Cognizant\cog_hchandra\Documents\Visual Studio 2013\Projects\FsdTaskService\FsdTaskService\obj\Debug\FsdTaskService.pdb
