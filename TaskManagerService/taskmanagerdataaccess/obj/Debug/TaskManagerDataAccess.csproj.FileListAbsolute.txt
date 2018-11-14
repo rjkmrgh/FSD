@@ -1,0 +1,6 @@
+C:\Rajesh\Technical\TaskManagerService\TaskManagerService\TaskManagerDataAccess\bin\Debug\TaskManagerDataAccess.dll
+C:\Rajesh\Technical\TaskManagerService\TaskManagerService\TaskManagerDataAccess\bin\Debug\TaskManagerDataAccess.pdb
+C:\Rajesh\Technical\TaskManagerService\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.csproj.CoreCompileInputs.cache
+C:\Rajesh\Technical\TaskManagerService\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.dll
+C:\Rajesh\Technical\TaskManagerService\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.pdb
+C:\Rajesh\Technical\TaskManagerService\TaskManagerService\TaskManagerDataAccess\obj\Debug\TaskManagerDataAccess.csprojAssemblyReference.cache
