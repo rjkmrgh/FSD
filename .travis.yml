@@ -1,2 +1,3 @@
 language: csharp
-solution: ./TaskManagerWebService/TaskmanagerService.sln
+solution: ./TaskManagerWebService/TaskManagerService.sln
+cache: ccache
